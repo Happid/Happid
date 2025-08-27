@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<p align="left">I’m Happid, a web developer with six years of experience<br>building and optimizing responsive web applications. I'm<br>proficient in HTML, CSS, JavaScript, front-end frameworks like<br>Angular and React. I'm accustomed to working in<br>cross-functional teams, implementing clean code practices,<br>and focusing on performance, accessibility, and user<br>experience. I'm highly adaptable to new technologies and<br>ready to make maximum contributions to any project.</p>
+<p align="left">I’m Happid, a web developer with six years of experience building and optimizing responsive web applications. I'm proficient in HTML, CSS, JavaScript, front-end frameworks like Angular and React. I'm accustomed to working in cross-functional teams, implementing clean code practices and focusing on performance, accessibility, and user experience. I'm highly adaptable to new technologies and ready to make maximum contributions to any project.</p>
 
 ###
 
